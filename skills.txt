@@ -1,0 +1,21 @@
+Python
+Java
+C++
+SQL
+Machine Learning
+Deep Learning
+Git
+GitHub
+HTML
+CSS
+JavaScript
+AWS
+Docker
+Flask
+Django
+Data Structures
+Algorithms
+NLP
+TensorFlow
+Pandas
+NumPy
